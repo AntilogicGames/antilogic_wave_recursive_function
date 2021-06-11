@@ -1,4 +1,4 @@
-# Antilogic Wave Recursive Function
+# Antilogic Wave Generator Recursive Function
 
 ### A beautiful recursive function that generates increasingly distant numbers which can be graphically represented as waves.
 
