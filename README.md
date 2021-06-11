@@ -1,6 +1,6 @@
 # Antilogic Wave Recursive Function
 
-###A beautiful recursive function that generates increasingly distant numbers which can be graphically represented as waves.
+### A beautiful recursive function that generates increasingly distant numbers which can be graphically represented as waves.
 
 ## Project setup
 ```
